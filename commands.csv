@@ -1,0 +1,1401 @@
+command,action,object
+"can you go to desk b",move to,desk b
+"now move to your next location which is r-desk",move to,r-desk
+"navigate to r-desk",move to,r-desk
+"move towards r-desk",move to,r-desk
+"please proceed to desk a",move to,desk a
+"move forward to desk a",move to,desk a
+"your destination is desk a",move to,desk a
+"navigate to chair",move to,chair
+"your destination is desk a",move to,desk a
+"from here you should move to bookshelf b which is your destination",move to,bookshelf b
+"navigate to bookshelf c",move to,bookshelf c
+"your destination is desk a",move to,desk a
+"make your way to bookshelf a",move to,bookshelf a
+"from here you should move to chair which is your destination",move to,chair
+"walk to r-desk",move to,r-desk
+"go to desk b now",move to,desk b
+"move to bookshelf a",move to,bookshelf a
+"move towards desk a",move to,desk a
+"from here you should move to bookshelf c which is your destination",move to,bookshelf c
+"make your way to r-desk",move to,r-desk
+"you need to go to bookshelf a",move to,bookshelf a
+"navigate to desk b",move to,desk b
+"move forward to chair",move to,chair
+"your destination is bookshelf b",move to,bookshelf b
+"proceed to desk b",move to,desk b
+"make your way to bookshelf c",move to,bookshelf c
+"you need to go to r-desk",move to,r-desk
+"can you go to desk a",move to,desk a
+"move towards desk b",move to,desk b
+"navigate to bookshelf a",move to,bookshelf a
+"move towards bookshelf b",move to,bookshelf b
+"move towards bookshelf c",move to,bookshelf c
+"move towards chair",move to,chair
+"you need to go to bookshelf c",move to,bookshelf c
+"move towards r-desk",move to,r-desk
+"please proceed to desk a",move to,desk a
+"your destination is bookshelf b",move to,bookshelf b
+"head over to bookshelf a",move to,bookshelf a
+"from here you should move to bookshelf a which is your destination",move to,bookshelf a
+"please proceed to bookshelf b",move to,bookshelf b
+"your destination is bookshelf a",move to,bookshelf a
+"relocate to bookshelf b",move to,bookshelf b
+"make your way to desk b",move to,desk b
+"make your way to desk b",move to,desk b
+"move towards bookshelf c",move to,bookshelf c
+"move towards bookshelf a",move to,bookshelf a
+"relocate to r-desk",move to,r-desk
+"your destination is desk b",move to,desk b
+"now move to your next location which is bookshelf a",move to,bookshelf a
+"navigate to desk a",move to,desk a
+"walk to bookshelf a",move to,bookshelf a
+"proceed to desk b",move to,desk b
+"your next stop is r-desk",move to,r-desk
+"you need to go to chair",move to,chair
+"you need to go to desk a",move to,desk a
+"please proceed to desk a",move to,desk a
+"proceed to desk b",move to,desk b
+"your next stop is r-desk",move to,r-desk
+"move forward to chair",move to,chair
+"your next stop is desk b",move to,desk b
+"proceed to bookshelf c",move to,bookshelf c
+"please proceed to desk b",move to,desk b
+"walk to bookshelf a",move to,bookshelf a
+"can you go to desk a",move to,desk a
+"your next stop is bookshelf a",move to,bookshelf a
+"make your way to bookshelf b",move to,bookshelf b
+"walk to desk b",move to,desk b
+"you need to go to r-desk",move to,r-desk
+"relocate to desk a",move to,desk a
+"navigate to bookshelf b",move to,bookshelf b
+"walk to bookshelf b",move to,bookshelf b
+"now move to your next location which is bookshelf a",move to,bookshelf a
+"please proceed to bookshelf a",move to,bookshelf a
+"make your way to desk b",move to,desk b
+"relocate to r-desk",move to,r-desk
+"move towards chair",move to,chair
+"proceed to desk b",move to,desk b
+"move to r-desk",move to,r-desk
+"please proceed to bookshelf a",move to,bookshelf a
+"relocate to bookshelf a",move to,bookshelf a
+"relocate to chair",move to,chair
+"go to chair now",move to,chair
+"head over to chair",move to,chair
+"from here you should move to desk a which is your destination",move to,desk a
+"go to bookshelf c now",move to,bookshelf c
+"from here you should move to bookshelf b which is your destination",move to,bookshelf b
+"now move to your next location which is bookshelf a",move to,bookshelf a
+"relocate to desk b",move to,desk b
+"move towards desk b",move to,desk b
+"navigate to bookshelf a",move to,bookshelf a
+"now move to your next location which is desk b",move to,desk b
+"proceed to r-desk",move to,r-desk
+"from here you should move to desk b which is your destination",move to,desk b
+"make your way to chair",move to,chair
+"now move to your next location which is chair",move to,chair
+"please proceed to r-desk",move to,r-desk
+"navigate to r-desk",move to,r-desk
+"relocate to bookshelf b",move to,bookshelf b
+"your next stop is r-desk",move to,r-desk
+"please proceed to chair",move to,chair
+"move forward to bookshelf b",move to,bookshelf b
+"move forward to chair",move to,chair
+"please proceed to bookshelf a",move to,bookshelf a
+"walk to bookshelf b",move to,bookshelf b
+"your destination is bookshelf c",move to,bookshelf c
+"relocate to bookshelf c",move to,bookshelf c
+"relocate to desk a",move to,desk a
+"move towards desk b",move to,desk b
+"your destination is chair",move to,chair
+"navigate to chair",move to,chair
+"navigate to desk b",move to,desk b
+"please proceed to bookshelf b",move to,bookshelf b
+"can you go to desk b",move to,desk b
+"your next stop is desk a",move to,desk a
+"from here you should move to bookshelf c which is your destination",move to,bookshelf c
+"relocate to desk b",move to,desk b
+"navigate to chair",move to,chair
+"your next stop is bookshelf c",move to,bookshelf c
+"walk to desk b",move to,desk b
+"can you go to bookshelf a",move to,bookshelf a
+"now move to your next location which is desk b",move to,desk b
+"please proceed to bookshelf c",move to,bookshelf c
+"please proceed to desk a",move to,desk a
+"relocate to desk b",move to,desk b
+"please proceed to desk b",move to,desk b
+"now move to your next location which is r-desk",move to,r-desk
+"you need to go to bookshelf c",move to,bookshelf c
+"your destination is r-desk",move to,r-desk
+"head over to desk a",move to,desk a
+"please proceed to bookshelf c",move to,bookshelf c
+"go to bookshelf a now",move to,bookshelf a
+"your destination is bookshelf c",move to,bookshelf c
+"proceed to desk a",move to,desk a
+"please proceed to r-desk",move to,r-desk
+"your next stop is desk a",move to,desk a
+"go to r-desk now",move to,r-desk
+"make your way to bookshelf a",move to,bookshelf a
+"move to desk a",move to,desk a
+"your next stop is bookshelf b",move to,bookshelf b
+"proceed to chair",move to,chair
+"proceed to bookshelf a",move to,bookshelf a
+"can you go to chair",move to,chair
+"please proceed to r-desk",move to,r-desk
+"walk to chair",move to,chair
+"make your way to chair",move to,chair
+"from here you should move to r-desk which is your destination",move to,r-desk
+"move towards chair",move to,chair
+"head over to desk b",move to,desk b
+"move forward to desk a",move to,desk a
+"please proceed to bookshelf b",move to,bookshelf b
+"go to desk b now",move to,desk b
+"head over to bookshelf a",move to,bookshelf a
+"head over to desk a",move to,desk a
+"now move to your next location which is bookshelf b",move to,bookshelf b
+"move forward to desk a",move to,desk a
+"relocate to desk a",move to,desk a
+"make your way to bookshelf b",move to,bookshelf b
+"proceed to bookshelf a",move to,bookshelf a
+"relocate to bookshelf c",move to,bookshelf c
+"relocate to desk a",move to,desk a
+"move towards bookshelf a",move to,bookshelf a
+"walk to bookshelf c",move to,bookshelf c
+"now move to your next location which is desk b",move to,desk b
+"from here you should move to bookshelf b which is your destination",move to,bookshelf b
+"your next stop is chair",move to,chair
+"from here you should move to r-desk which is your destination",move to,r-desk
+"your destination is chair",move to,chair
+"you need to go to bookshelf c",move to,bookshelf c
+"make your way to bookshelf c",move to,bookshelf c
+"from here you should move to bookshelf a which is your destination",move to,bookshelf a
+"navigate to desk b",move to,desk b
+"go to desk a now",move to,desk a
+"you need to go to bookshelf c",move to,bookshelf c
+"go to bookshelf b now",move to,bookshelf b
+"go to desk b now",move to,desk b
+"make your way to desk b",move to,desk b
+"now move to your next location which is desk a",move to,desk a
+"move forward to desk b",move to,desk b
+"now move to your next location which is bookshelf b",move to,bookshelf b
+"navigate to desk b",move to,desk b
+"head over to bookshelf c",move to,bookshelf c
+"relocate to desk a",move to,desk a
+"head over to desk b",move to,desk b
+"from here you should move to chair which is your destination",move to,chair
+"walk to desk a",move to,desk a
+"go to bookshelf b now",move to,bookshelf b
+"head over to bookshelf b",move to,bookshelf b
+"relocate to r-desk",move to,r-desk
+"now move to your next location which is bookshelf b",move to,bookshelf b
+"walk to bookshelf c",move to,bookshelf c
+"go to desk a now",move to,desk a
+"move towards desk a",move to,desk a
+"navigate to bookshelf c",move to,bookshelf c
+"head over to chair",move to,chair
+"you need to go to desk a",move to,desk a
+"from here you should move to bookshelf c which is your destination",move to,bookshelf c
+"please proceed to r-desk",move to,r-desk
+"make your way to desk a",move to,desk a
+"make your way to desk a",move to,desk a
+"navigate to desk a",move to,desk a
+"now move to your next location which is desk b",move to,desk b
+"please proceed to bookshelf a",move to,bookshelf a
+"you need to go to bookshelf a",move to,bookshelf a
+"can you go to bookshelf b",move to,bookshelf b
+"proceed to r-desk",move to,r-desk
+"navigate to bookshelf a",move to,bookshelf a
+"your destination is desk a",move to,desk a
+"relocate to r-desk",move to,r-desk
+"move towards desk b",move to,desk b
+"relocate to chair",move to,chair
+"your destination is desk a",move to,desk a
+"navigate to bookshelf b",move to,bookshelf b
+"walk to bookshelf c",move to,bookshelf c
+"now move to your next location which is bookshelf a",move to,bookshelf a
+"walk to desk a",move to,desk a
+"relocate to bookshelf a",move to,bookshelf a
+"proceed to chair",move to,chair
+"proceed to chair",move to,chair
+"make your way to bookshelf b",move to,bookshelf b
+"navigate to bookshelf b",move to,bookshelf b
+"move forward to bookshelf c",move to,bookshelf c
+"head over to bookshelf a",move to,bookshelf a
+"relocate to chair",move to,chair
+"proceed to bookshelf b",move to,bookshelf b
+"walk to chair",move to,chair
+"walk to r-desk",move to,r-desk
+"can you go to chair",move to,chair
+"go to bookshelf a now",move to,bookshelf a
+"navigate to r-desk",move to,r-desk
+"move forward to r-desk",move to,r-desk
+"go to bookshelf c now",move to,bookshelf c
+"can you go to bookshelf c",move to,bookshelf c
+"your next stop is desk b",move to,desk b
+"head over to bookshelf b",move to,bookshelf b
+"head over to desk b",move to,desk b
+"proceed to bookshelf a",move to,bookshelf a
+"your next stop is bookshelf b",move to,bookshelf b
+"you need to go to r-desk",move to,r-desk
+"your destination is bookshelf b",move to,bookshelf b
+"relocate to desk b",move to,desk b
+"move towards bookshelf b",move to,bookshelf b
+"move forward to desk b",move to,desk b
+"your destination is chair",move to,chair
+"proceed to desk b",move to,desk b
+"move towards desk a",move to,desk a
+"navigate to bookshelf b",move to,bookshelf b
+"move forward to desk a",move to,desk a
+"navigate to r-desk",move to,r-desk
+"go to desk a now",move to,desk a
+"move forward to bookshelf a",move to,bookshelf a
+"relocate to bookshelf c",move to,bookshelf c
+"your destination is chair",move to,chair
+"from here you should move to desk a which is your destination",move to,desk a
+"your next stop is bookshelf b",move to,bookshelf b
+"relocate to desk b",move to,desk b
+"now move to your next location which is bookshelf a",move to,bookshelf a
+"please proceed to r-desk",move to,r-desk
+"can you go to r-desk",move to,r-desk
+"make your way to desk b",move to,desk b
+"proceed to r-desk",move to,r-desk
+"move forward to bookshelf c",move to,bookshelf c
+"walk to desk b",move to,desk b
+"your destination is desk b",move to,desk b
+"from here you should move to desk a which is your destination",move to,desk a
+"move forward to chair",move to,chair
+"your next stop is desk a",move to,desk a
+"move forward to bookshelf a",move to,bookshelf a
+"make your way to desk a",move to,desk a
+"you need to go to bookshelf b",move to,bookshelf b
+"now move to your next location which is bookshelf c",move to,bookshelf c
+"navigate to desk a",move to,desk a
+"make your way to chair",move to,chair
+"you need to go to chair",move to,chair
+"navigate to desk b",move to,desk b
+"move forward to bookshelf a",move to,bookshelf a
+"head over to bookshelf a",move to,bookshelf a
+"relocate to bookshelf a",move to,bookshelf a
+"please proceed to chair",move to,chair
+"you need to go to chair",move to,chair
+"can you go to bookshelf c",move to,bookshelf c
+"relocate to desk a",move to,desk a
+"your next stop is desk b",move to,desk b
+"walk to desk b",move to,desk b
+"walk to desk b",move to,desk b
+"head over to r-desk",move to,r-desk
+"move forward to desk b",move to,desk b
+"proceed to desk b",move to,desk b
+"please proceed to bookshelf c",move to,bookshelf c
+"proceed to chair",move to,chair
+"make your way to bookshelf c",move to,bookshelf c
+"move towards bookshelf b",move to,bookshelf b
+"relocate to chair",move to,chair
+"move towards r-desk",move to,r-desk
+"go to chair now",move to,chair
+"move forward to bookshelf b",move to,bookshelf b
+"move to bookshelf b",move to,bookshelf b
+"proceed to bookshelf a",move to,bookshelf a
+"head over to r-desk",move to,r-desk
+"your destination is desk a",move to,desk a
+"now move to your next location which is bookshelf c",move to,bookshelf c
+"now move to your next location which is chair",move to,chair
+"go to r-desk now",move to,r-desk
+"can you go to r-desk",move to,r-desk
+"walk to desk a",move to,desk a
+"your destination is desk b",move to,desk b
+"move forward to desk b",move to,desk b
+"proceed to bookshelf b",move to,bookshelf b
+"move forward to bookshelf b",move to,bookshelf b
+"move towards desk a",move to,desk a
+"head over to desk a",move to,desk a
+"your next stop is desk a",move to,desk a
+"can you go to bookshelf a",move to,bookshelf a
+"you need to go to desk b",move to,desk b
+"move towards desk b",move to,desk b
+"walk to bookshelf c",move to,bookshelf c
+"your next stop is bookshelf a",move to,bookshelf a
+"walk to bookshelf a",move to,bookshelf a
+"please proceed to bookshelf b",move to,bookshelf b
+"relocate to bookshelf c",move to,bookshelf c
+"please proceed to bookshelf a",move to,bookshelf a
+"your next stop is desk b",move to,desk b
+"go to desk a now",move to,desk a
+"your destination is bookshelf c",move to,bookshelf c
+"your destination is desk b",move to,desk b
+"now move to your next location which is desk b",move to,desk b
+"navigate to desk a",move to,desk a
+"can you go to desk a",move to,desk a
+"walk to desk a",move to,desk a
+"move towards bookshelf b",move to,bookshelf b
+"go to bookshelf a now",move to,bookshelf a
+"move forward to desk b",move to,desk b
+"head over to chair",move to,chair
+"you need to go to r-desk",move to,r-desk
+"your destination is r-desk",move to,r-desk
+"make your way to r-desk",move to,r-desk
+"your next stop is bookshelf a",move to,bookshelf a
+"proceed to r-desk",move to,r-desk
+"move towards desk b",move to,desk b
+"from here you should move to r-desk which is your destination",move to,r-desk
+"navigate to chair",move to,chair
+"move forward to r-desk",move to,r-desk
+"your next stop is r-desk",move to,r-desk
+"move forward to desk b",move to,desk b
+"you need to go to bookshelf a",move to,bookshelf a
+"go to chair now",move to,chair
+"head over to chair",move to,chair
+"move forward to r-desk",move to,r-desk
+"go to desk a now",move to,desk a
+"from here you should move to r-desk which is your destination",move to,r-desk
+"your destination is desk b",move to,desk b
+"your next stop is r-desk",move to,r-desk
+"your next stop is bookshelf a",move to,bookshelf a
+"go to desk b now",move to,desk b
+"go to bookshelf a now",move to,bookshelf a
+"your destination is bookshelf c",move to,bookshelf c
+"please proceed to bookshelf b",move to,bookshelf b
+"relocate to bookshelf b",move to,bookshelf b
+"go to chair now",move to,chair
+"can you go to chair",move to,chair
+"your next stop is chair",move to,chair
+"proceed to desk a",move to,desk a
+"walk to bookshelf c",move to,bookshelf c
+"proceed to bookshelf c",move to,bookshelf c
+"move forward to desk a",move to,desk a
+"relocate to bookshelf a",move to,bookshelf a
+"your next stop is bookshelf b",move to,bookshelf b
+"go to desk b now",move to,desk b
+"from here you should move to bookshelf c which is your destination",move to,bookshelf c
+"now move to your next location which is desk b",move to,desk b
+"walk to r-desk",move to,r-desk
+"now move to your next location which is bookshelf b",move to,bookshelf b
+"your destination is bookshelf a",move to,bookshelf a
+"move towards bookshelf b",move to,bookshelf b
+"relocate to bookshelf b",move to,bookshelf b
+"navigate to bookshelf a",move to,bookshelf a
+"move towards bookshelf c",move to,bookshelf c
+"your destination is bookshelf a",move to,bookshelf a
+"your destination is bookshelf c",move to,bookshelf c
+"can you go to bookshelf c",move to,bookshelf c
+"proceed to chair",move to,chair
+"your destination is bookshelf a",move to,bookshelf a
+"head over to r-desk",move to,r-desk
+"make your way to bookshelf b",move to,bookshelf b
+"your destination is bookshelf b",move to,bookshelf b
+"walk to bookshelf a",move to,bookshelf a
+"you need to go to desk a",move to,desk a
+"can you go to bookshelf c",move to,bookshelf c
+"your next stop is bookshelf c",move to,bookshelf c
+"make your way to desk a",move to,desk a
+"please proceed to bookshelf c",move to,bookshelf c
+"can you go to desk b",move to,desk b
+"move forward to bookshelf a",move to,bookshelf a
+"you need to go to desk b",move to,desk b
+"your destination is desk b",move to,desk b
+"proceed to desk a",move to,desk a
+"you need to go to bookshelf b",move to,bookshelf b
+"your next stop is desk b",move to,desk b
+"your next stop is desk b",move to,desk b
+"walk to r-desk",move to,r-desk
+"now move to your next location which is desk a",move to,desk a
+"make your way to r-desk",move to,r-desk
+"head over to bookshelf b",move to,bookshelf b
+"navigate to chair",move to,chair
+"walk to r-desk",move to,r-desk
+"please proceed to desk a",move to,desk a
+"walk to desk a",move to,desk a
+"move forward to desk b",move to,desk b
+"go to r-desk now",move to,r-desk
+"from here you should move to desk a which is your destination",move to,desk a
+"can you go to r-desk",move to,r-desk
+"please proceed to desk b",move to,desk b
+"now move to your next location which is desk a",move to,desk a
+"please proceed to desk a",move to,desk a
+"make your way to bookshelf c",move to,bookshelf c
+"from here you should move to desk b which is your destination",move to,desk b
+"relocate to bookshelf c",move to,bookshelf c
+"move forward to r-desk",move to,r-desk
+"from here you should move to chair which is your destination",move to,chair
+"can you go to r-desk",move to,r-desk
+"now move to your next location which is r-desk",move to,r-desk
+"go to bookshelf c now",move to,bookshelf c
+"please proceed to desk b",move to,desk b
+"move forward to r-desk",move to,r-desk
+"make your way to desk a",move to,desk a
+"now move to your next location which is desk b",move to,desk b
+"move forward to r-desk",move to,r-desk
+"move towards bookshelf a",move to,bookshelf a
+"walk to bookshelf c",move to,bookshelf c
+"your next stop is bookshelf b",move to,bookshelf b
+"go to bookshelf c now",move to,bookshelf c
+"walk to desk b",move to,desk b
+"can you go to r-desk",move to,r-desk
+"relocate to desk b",move to,desk b
+"make your way to chair",move to,chair
+"now move to your next location which is bookshelf b",move to,bookshelf b
+"please proceed to bookshelf c",move to,bookshelf c
+"from here you should move to bookshelf a which is your destination",move to,bookshelf a
+"walk to r-desk",move to,r-desk
+"move towards desk a",move to,desk a
+"walk to chair",move to,chair
+"now move to your next location which is bookshelf c",move to,bookshelf c
+"can you go to r-desk",move to,r-desk
+"your destination is r-desk",move to,r-desk
+"from here you should move to r-desk which is your destination",move to,r-desk
+"make your way to bookshelf c",move to,bookshelf c
+"please proceed to chair",move to,chair
+"you need to go to bookshelf a",move to,bookshelf a
+"move towards bookshelf a",move to,bookshelf a
+"you need to go to desk b",move to,desk b
+"make your way to bookshelf a",move to,bookshelf a
+"now move to your next location which is desk a",move to,desk a
+"your next stop is bookshelf b",move to,bookshelf b
+"relocate to bookshelf b",move to,bookshelf b
+"proceed to desk a",move to,desk a
+"your destination is bookshelf b",move to,bookshelf b
+"now move to your next location which is bookshelf c",move to,bookshelf c
+"head over to r-desk",move to,r-desk
+"you need to go to bookshelf b",move to,bookshelf b
+"relocate to chair",move to,chair
+"from here you should move to bookshelf a which is your destination",move to,bookshelf a
+"head over to chair",move to,chair
+"navigate to desk a",move to,desk a
+"you need to go to bookshelf b",move to,bookshelf b
+"move forward to bookshelf a",move to,bookshelf a
+"can you go to desk b",move to,desk b
+"make your way to bookshelf c",move to,bookshelf c
+"you need to go to bookshelf a",move to,bookshelf a
+"from here you should move to desk b which is your destination",move to,desk b
+"navigate to desk b",move to,desk b
+"head over to desk a",move to,desk a
+"proceed to r-desk",move to,r-desk
+"you need to go to desk a",move to,desk a
+"head over to bookshelf c",move to,bookshelf c
+"your next stop is chair",move to,chair
+"now move to your next location which is chair",move to,chair
+"can you go to bookshelf c",move to,bookshelf c
+"please proceed to bookshelf a",move to,bookshelf a
+"navigate to r-desk",move to,r-desk
+"head over to chair",move to,chair
+"from here you should move to desk b which is your destination",move to,desk b
+"please proceed to chair",move to,chair
+"relocate to desk b",move to,desk b
+"make your way to desk a",move to,desk a
+"you need to go to chair",move to,chair
+"your destination is chair",move to,chair
+"can you go to chair",move to,chair
+"from here you should move to bookshelf c which is your destination",move to,bookshelf c
+"go to bookshelf b now",move to,bookshelf b
+"your destination is desk b",move to,desk b
+"make your way to bookshelf b",move to,bookshelf b
+"from here you should move to chair which is your destination",move to,chair
+"move to bookshelf c",move to,bookshelf c
+"your destination is bookshelf a",move to,bookshelf a
+"make your way to desk b",move to,desk b
+"head over to bookshelf c",move to,bookshelf c
+"your next stop is r-desk",move to,r-desk
+"can you go to desk a",move to,desk a
+"proceed to bookshelf c",move to,bookshelf c
+"navigate to bookshelf c",move to,bookshelf c
+"your next stop is desk a",move to,desk a
+"go to chair now",move to,chair
+"head over to bookshelf c",move to,bookshelf c
+"head over to desk a",move to,desk a
+"head over to desk b",move to,desk b
+"move towards r-desk",move to,r-desk
+"go to bookshelf b now",move to,bookshelf b
+"make your way to desk b",move to,desk b
+"head over to bookshelf b",move to,bookshelf b
+"navigate to desk b",move to,desk b
+"can you go to bookshelf a",move to,bookshelf a
+"can you go to desk a",move to,desk a
+"walk to desk b",move to,desk b
+"now move to your next location which is r-desk",move to,r-desk
+"you need to go to bookshelf b",move to,bookshelf b
+"proceed to desk a",move to,desk a
+"please proceed to bookshelf c",move to,bookshelf c
+"go to desk a now",move to,desk a
+"you need to go to r-desk",move to,r-desk
+"move forward to bookshelf c",move to,bookshelf c
+"go to r-desk now",move to,r-desk
+"can you go to bookshelf b",move to,bookshelf b
+"proceed to bookshelf b",move to,bookshelf b
+"your next stop is bookshelf a",move to,bookshelf a
+"move towards chair",move to,chair
+"proceed to desk a",move to,desk a
+"move forward to bookshelf c",move to,bookshelf c
+"now move to your next location which is chair",move to,chair
+"go to bookshelf c now",move to,bookshelf c
+"can you go to chair",move to,chair
+"from here you should move to desk a which is your destination",move to,desk a
+"walk to chair",move to,chair
+"walk to chair",move to,chair
+"from here you should move to bookshelf a which is your destination",move to,bookshelf a
+"from here you should move to r-desk which is your destination",move to,r-desk
+"relocate to desk a",move to,desk a
+"make your way to desk a",move to,desk a
+"walk to bookshelf b",move to,bookshelf b
+"your destination is r-desk",move to,r-desk
+"from here you should move to desk b which is your destination",move to,desk b
+"move to chair",move to,chair
+"now move to your next location which is desk a",move to,desk a
+"move forward to bookshelf b",move to,bookshelf b
+"relocate to bookshelf a",move to,bookshelf a
+"proceed to chair",move to,chair
+"from here you should move to desk b which is your destination",move to,desk b
+"proceed to bookshelf b",move to,bookshelf b
+"go to bookshelf b now",move to,bookshelf b
+"can you go to bookshelf a",move to,bookshelf a
+"proceed to desk a",move to,desk a
+"from here you should move to desk b which is your destination",move to,desk b
+"move forward to desk a",move to,desk a
+"from here you should move to bookshelf b which is your destination",move to,bookshelf b
+"can you go to bookshelf c",move to,bookshelf c
+"move forward to bookshelf b",move to,bookshelf b
+"please proceed to chair",move to,chair
+"you need to go to desk b",move to,desk b
+"go to bookshelf c now",move to,bookshelf c
+"move towards bookshelf c",move to,bookshelf c
+"your next stop is bookshelf c",move to,bookshelf c
+"proceed to bookshelf c",move to,bookshelf c
+"proceed to bookshelf a",move to,bookshelf a
+"navigate to bookshelf a",move to,bookshelf a
+"your destination is bookshelf a",move to,bookshelf a
+"please proceed to desk b",move to,desk b
+"make your way to bookshelf a",move to,bookshelf a
+"make your way to r-desk",move to,r-desk
+"head over to bookshelf a",move to,bookshelf a
+"your next stop is bookshelf c",move to,bookshelf c
+"make your way to r-desk",move to,r-desk
+"move forward to bookshelf a",move to,bookshelf a
+"your next stop is bookshelf a",move to,bookshelf a
+"can you go to bookshelf b",move to,bookshelf b
+"navigate to chair",move to,chair
+"can you go to bookshelf b",move to,bookshelf b
+"from here you should move to bookshelf b which is your destination",move to,bookshelf b
+"relocate to bookshelf a",move to,bookshelf a
+"make your way to r-desk",move to,r-desk
+"relocate to chair",move to,chair
+"please proceed to desk b",move to,desk b
+"navigate to bookshelf b",move to,bookshelf b
+"your next stop is chair",move to,chair
+"now move to your next location which is chair",move to,chair
+"navigate to bookshelf b",move to,bookshelf b
+"proceed to bookshelf c",move to,bookshelf c
+"navigate to desk a",move to,desk a
+"now move to your next location which is bookshelf c",move to,bookshelf c
+"now move to your next location which is desk a",move to,desk a
+"head over to bookshelf a",move to,bookshelf a
+"move towards desk a",move to,desk a
+"your next stop is bookshelf c",move to,bookshelf c
+"move towards desk a",move to,desk a
+"walk to bookshelf a",move to,bookshelf a
+"now move to your next location which is r-desk",move to,r-desk
+"move towards chair",move to,chair
+"from here you should move to desk a which is your destination",move to,desk a
+"proceed to bookshelf b",move to,bookshelf b
+"now move to your next location which is desk a",move to,desk a
+"move towards desk b",move to,desk b
+"your next stop is chair",move to,chair
+"navigate to desk a",move to,desk a
+"relocate to r-desk",move to,r-desk
+"make your way to chair",move to,chair
+"relocate to bookshelf c",move to,bookshelf c
+"make your way to bookshelf a",move to,bookshelf a
+"move forward to bookshelf c",move to,bookshelf c
+"your destination is r-desk",move to,r-desk
+"you need to go to bookshelf a",move to,bookshelf a
+"can you go to desk b",move to,desk b
+"you need to go to desk a",move to,desk a
+"make your way to chair",move to,chair
+"can you go to desk b",move to,desk b
+"please proceed to desk b",move to,desk b
+"your next stop is desk b",move to,desk b
+"head over to bookshelf b",move to,bookshelf b
+"your next stop is chair",move to,chair
+"can you go to bookshelf a",move to,bookshelf a
+"move towards bookshelf c",move to,bookshelf c
+"walk to bookshelf b",move to,bookshelf b
+"move towards bookshelf a",move to,bookshelf a
+"you need to go to bookshelf c",move to,bookshelf c
+"you need to go to desk a",move to,desk a
+"go to bookshelf b now",move to,bookshelf b
+"go to r-desk now",move to,r-desk
+"your destination is chair",move to,chair
+"you need to go to desk b",move to,desk b
+"head over to desk b",move to,desk b
+"head over to bookshelf c",move to,bookshelf c
+"can you go to chair",move to,chair
+"now move to your next location which is bookshelf b",move to,bookshelf b
+"move towards r-desk",move to,r-desk
+"move forward to chair",move to,chair
+"can you go to desk a",move to,desk a
+"your destination is desk a",move to,desk a
+"walk to bookshelf b",move to,bookshelf b
+"you need to go to desk a",move to,desk a
+"you need to go to bookshelf c",move to,bookshelf c
+"move towards bookshelf a",move to,bookshelf a
+"walk to desk a",move to,desk a
+"your destination is bookshelf c",move to,bookshelf c
+"make your way to bookshelf a",move to,bookshelf a
+"relocate to r-desk",move to,r-desk
+"now move to your next location which is chair",move to,chair
+"head over to bookshelf c",move to,bookshelf c
+"go to bookshelf a now",move to,bookshelf a
+"your destination is r-desk",move to,r-desk
+"now move to your next location which is r-desk",move to,r-desk
+"from here you should move to desk a which is your destination",move to,desk a
+"go to desk a now",move to,desk a
+"navigate to bookshelf c",move to,bookshelf c
+"head over to desk b",move to,desk b
+"go to desk b now",move to,desk b
+"you need to go to chair",move to,chair
+"walk to desk a",move to,desk a
+"navigate to bookshelf c",move to,bookshelf c
+"you need to go to r-desk",move to,r-desk
+"please proceed to bookshelf b",move to,bookshelf b
+"go to chair now",move to,chair
+"move forward to bookshelf b",move to,bookshelf b
+"from here you should move to chair which is your destination",move to,chair
+"navigate to bookshelf c",move to,bookshelf c
+"make your way to bookshelf b",move to,bookshelf b
+"navigate to r-desk",move to,r-desk
+"move to desk b",move to,desk b
+"head over to desk a",move to,desk a
+"you need to go to bookshelf b",move to,bookshelf b
+"now move to your next location which is bookshelf c",move to,bookshelf c
+"head over to desk a",move to,desk a
+"can you go to bookshelf b",move to,bookshelf b
+"move forward to chair",move to,chair
+"move towards chair",move to,chair
+"head over to r-desk",move to,r-desk
+"your next stop is desk a",move to,desk a
+"now move to your next location which is bookshelf a",move to,bookshelf a
+"your next stop is bookshelf c",move to,bookshelf c
+"from here you should move to bookshelf c which is your destination",move to,bookshelf c
+"your destination is bookshelf b",move to,bookshelf b
+"go to r-desk now",move to,r-desk
+"proceed to bookshelf b",move to,bookshelf b
+"you need to go to chair",move to,chair
+"from here you should move to bookshelf a which is your destination",move to,bookshelf a
+"move towards bookshelf b",move to,bookshelf b
+"can you go to desk a",move to,desk a
+"go to desk b now",move to,desk b
+"you need to go to desk b",move to,desk b
+"walk to chair",move to,chair
+"please proceed to r-desk",move to,r-desk
+"walk to bookshelf b",move to,bookshelf b
+"please proceed to desk a",move to,desk a
+"please proceed to chair",move to,chair
+"proceed to bookshelf a",move to,bookshelf a
+"from here you should move to bookshelf b which is your destination",move to,bookshelf b
+"you need to go to desk b",move to,desk b
+"from here you should move to chair which is your destination",move to,chair
+"head over to r-desk",move to,r-desk
+"move forward to desk a",move to,desk a
+"walk to bookshelf a",move to,bookshelf a
+"proceed to bookshelf c",move to,bookshelf c
+"move forward to bookshelf c",move to,bookshelf c
+"can you go to desk b",move to,desk b
+"proceed to desk b",move to,desk b
+"navigate to bookshelf b",move to,bookshelf b
+"from here you should move to bookshelf b which is your destination",move to,bookshelf b
+"you need to go to bookshelf c",move to,bookshelf c
+"relocate to r-desk",move to,r-desk
+"now move to your next location which is desk a",move to,desk a
+"go to desk b now",move to,desk b
+"move forward to desk b",move to,desk b
+"relocate to desk a",move to,desk a
+"go to desk b now",move to,desk b
+"move forward to chair",move to,chair
+"navigate to bookshelf a",move to,bookshelf a
+"make your way to desk b",move to,desk b
+"make your way to bookshelf a",move to,bookshelf a
+"navigate to bookshelf a",move to,bookshelf a
+"your destination is desk a",move to,desk a
+"move forward to chair",move to,chair
+"you need to go to bookshelf b",move to,bookshelf b
+"make your way to bookshelf c",move to,bookshelf c
+"navigate to desk b",move to,desk b
+"make your way to bookshelf a",move to,bookshelf a
+"navigate to chair",move to,chair
+"go to bookshelf b now",move to,bookshelf b
+"move forward to desk a",move to,desk a
+"your next stop is desk a",move to,desk a
+"relocate to chair",move to,chair
+"can you go to desk b",move to,desk b
+"move forward to r-desk",move to,r-desk
+"head over to bookshelf c",move to,bookshelf c
+"navigate to bookshelf b",move to,bookshelf b
+"your destination is bookshelf c",move to,bookshelf c
+"move forward to r-desk",move to,r-desk
+"navigate to bookshelf c",move to,bookshelf c
+"from here you should move to desk b which is your destination",move to,desk b
+"proceed to chair",move to,chair
+"your next stop is desk a",move to,desk a
+"move towards bookshelf b",move to,bookshelf b
+"move forward to bookshelf b",move to,bookshelf b
+"you need to go to desk a",move to,desk a
+"relocate to bookshelf c",move to,bookshelf c
+"head over to desk b",move to,desk b
+"now move to your next location which is chair",move to,chair
+"head over to desk a",move to,desk a
+"walk to chair",move to,chair
+"please proceed to desk b",move to,desk b
+"proceed to bookshelf b",move to,bookshelf b
+"go to chair now",move to,chair
+"go to bookshelf c now",move to,bookshelf c
+"make your way to desk a",move to,desk a
+"now move to your next location which is bookshelf b",move to,bookshelf b
+"head over to desk a",move to,desk a
+"head over to r-desk",move to,r-desk
+"head over to chair",move to,chair
+"relocate to desk a",move to,desk a
+"you need to go to desk b",move to,desk b
+"from here you should move to bookshelf a which is your destination",move to,bookshelf a
+"from here you should move to bookshelf c which is your destination",move to,bookshelf c
+"proceed to desk b",move to,desk b
+"you need to go to desk a",move to,desk a
+"make your way to r-desk",move to,r-desk
+"can you go to desk b",move to,desk b
+"relocate to desk b",move to,desk b
+"your next stop is chair",move to,chair
+"make your way to desk b",move to,desk b
+"now move to your next location which is desk b",move to,desk b
+"move towards desk a",move to,desk a
+"your next stop is r-desk",move to,r-desk
+"move towards desk b",move to,desk b
+"go to bookshelf c now",move to,bookshelf c
+"go to r-desk now",move to,r-desk
+"relocate to chair",move to,chair
+"please proceed to chair",move to,chair
+"head over to bookshelf b",move to,bookshelf b
+"make your way to desk a",move to,desk a
+"please proceed to desk a",move to,desk a
+"go to chair now",move to,chair
+"you need to go to chair",move to,chair
+"you need to go to desk a",move to,desk a
+"you need to go to desk b",move to,desk b
+"head over to desk b",move to,desk b
+"proceed to desk a",move to,desk a
+"go to desk a now",move to,desk a
+"please proceed to r-desk",move to,r-desk
+"go to bookshelf c now",move to,bookshelf c
+"walk to bookshelf a",move to,bookshelf a
+"move to bookshelf b",move to,bookshelf b
+"relocate to bookshelf b",move to,bookshelf b
+"now move to your next location which is desk b",move to,desk b
+"go to desk b now",move to,desk b
+"now move to your next location which is desk a",move to,desk a
+"head over to desk a",move to,desk a
+"go to bookshelf b now",move to,bookshelf b
+"relocate to bookshelf a",move to,bookshelf a
+"move forward to bookshelf c",move to,bookshelf c
+"go to bookshelf c now",move to,bookshelf c
+"from here you should move to bookshelf c which is your destination",move to,bookshelf c
+"your destination is bookshelf c",move to,bookshelf c
+"from here you should move to r-desk which is your destination",move to,r-desk
+"move towards chair",move to,chair
+"please proceed to bookshelf a",move to,bookshelf a
+"go to desk a now",move to,desk a
+"you need to go to bookshelf c",move to,bookshelf c
+"from here you should move to bookshelf a which is your destination",move to,bookshelf a
+"walk to r-desk",move to,r-desk
+"make your way to chair",move to,chair
+"go to desk a now",move to,desk a
+"you need to go to bookshelf b",move to,bookshelf b
+"your next stop is bookshelf b",move to,bookshelf b
+"move forward to bookshelf a",move to,bookshelf a
+"your destination is bookshelf b",move to,bookshelf b
+"can you go to desk a",move to,desk a
+"walk to desk a",move to,desk a
+"move forward to desk a",move to,desk a
+"relocate to bookshelf a",move to,bookshelf a
+"please proceed to bookshelf b",move to,bookshelf b
+"relocate to desk a",move to,desk a
+"move towards desk b",move to,desk b
+"make your way to desk a",move to,desk a
+"move forward to chair",move to,chair
+"please proceed to bookshelf a",move to,bookshelf a
+"can you go to chair",move to,chair
+"now move to your next location which is chair",move to,chair
+"move forward to desk a",move to,desk a
+"can you go to bookshelf c",move to,bookshelf c
+"make your way to bookshelf b",move to,bookshelf b
+"you need to go to bookshelf a",move to,bookshelf a
+"now move to your next location which is bookshelf b",move to,bookshelf b
+"walk to desk b",move to,desk b
+"head over to desk a",move to,desk a
+"can you go to chair",move to,chair
+"your destination is bookshelf b",move to,bookshelf b
+"you need to go to r-desk",move to,r-desk
+"walk to bookshelf b",move to,bookshelf b
+"navigate to desk a",move to,desk a
+"relocate to bookshelf b",move to,bookshelf b
+"your next stop is desk b",move to,desk b
+"your destination is r-desk",move to,r-desk
+"walk to desk b",move to,desk b
+"your next stop is bookshelf b",move to,bookshelf b
+"from here you should move to desk b which is your destination",move to,desk b
+"make your way to bookshelf c",move to,bookshelf c
+"proceed to desk b",move to,desk b
+"can you go to r-desk",move to,r-desk
+"please proceed to desk b",move to,desk b
+"your next stop is bookshelf b",move to,bookshelf b
+"head over to bookshelf c",move to,bookshelf c
+"head over to bookshelf a",move to,bookshelf a
+"head over to desk b",move to,desk b
+"head over to bookshelf b",move to,bookshelf b
+"move towards desk b",move to,desk b
+"your next stop is desk b",move to,desk b
+"move towards chair",move to,chair
+"proceed to bookshelf c",move to,bookshelf c
+"can you go to r-desk",move to,r-desk
+"move towards desk a",move to,desk a
+"from here you should move to desk b which is your destination",move to,desk b
+"proceed to r-desk",move to,r-desk
+"from here you should move to desk b which is your destination",move to,desk b
+"walk to bookshelf b",move to,bookshelf b
+"relocate to bookshelf b",move to,bookshelf b
+"relocate to chair",move to,chair
+"now move to your next location which is desk a",move to,desk a
+"move towards desk a",move to,desk a
+"your next stop is chair",move to,chair
+"walk to chair",move to,chair
+"please proceed to bookshelf c",move to,bookshelf c
+"move to bookshelf a",move to,bookshelf a
+"proceed to desk b",move to,desk b
+"go to chair now",move to,chair
+"walk to desk b",move to,desk b
+"navigate to chair",move to,chair
+"navigate to chair",move to,chair
+"can you go to bookshelf c",move to,bookshelf c
+"you need to go to bookshelf a",move to,bookshelf a
+"walk to bookshelf c",move to,bookshelf c
+"proceed to chair",move to,chair
+"go to bookshelf b now",move to,bookshelf b
+"can you go to bookshelf b",move to,bookshelf b
+"navigate to chair",move to,chair
+"your destination is desk a",move to,desk a
+"make your way to bookshelf b",move to,bookshelf b
+"go to r-desk now",move to,r-desk
+"can you go to bookshelf b",move to,bookshelf b
+"head over to bookshelf a",move to,bookshelf a
+"navigate to r-desk",move to,r-desk
+"your destination is desk b",move to,desk b
+"your next stop is chair",move to,chair
+"can you go to bookshelf a",move to,bookshelf a
+"from here you should move to r-desk which is your destination",move to,r-desk
+"proceed to r-desk",move to,r-desk
+"move to bookshelf c",move to,bookshelf c
+"navigate to desk a",move to,desk a
+"make your way to desk a",move to,desk a
+"head over to r-desk",move to,r-desk
+"your destination is bookshelf a",move to,bookshelf a
+"your destination is desk b",move to,desk b
+"from here you should move to bookshelf a which is your destination",move to,bookshelf a
+"go to bookshelf c now",move to,bookshelf c
+"can you go to bookshelf a",move to,bookshelf a
+"now move to your next location which is r-desk",move to,r-desk
+"your next stop is chair",move to,chair
+"move forward to bookshelf c",move to,bookshelf c
+"relocate to bookshelf c",move to,bookshelf c
+"make your way to desk b",move to,desk b
+"move forward to desk b",move to,desk b
+"walk to desk b",move to,desk b
+"your destination is bookshelf a",move to,bookshelf a
+"move forward to r-desk",move to,r-desk
+"make your way to chair",move to,chair
+"move forward to bookshelf b",move to,bookshelf b
+"proceed to chair",move to,chair
+"make your way to r-desk",move to,r-desk
+"relocate to desk a",move to,desk a
+"your next stop is bookshelf c",move to,bookshelf c
+"make your way to desk b",move to,desk b
+"can you go to desk b",move to,desk b
+"can you go to desk a",move to,desk a
+"move towards bookshelf b",move to,bookshelf b
+"make your way to bookshelf a",move to,bookshelf a
+"now move to your next location which is desk a",move to,desk a
+"move towards bookshelf b",move to,bookshelf b
+"move towards bookshelf c",move to,bookshelf c
+"relocate to r-desk",move to,r-desk
+"move towards desk a",move to,desk a
+"relocate to bookshelf c",move to,bookshelf c
+"relocate to desk b",move to,desk b
+"navigate to bookshelf a",move to,bookshelf a
+"navigate to bookshelf a",move to,bookshelf a
+"relocate to desk b",move to,desk b
+"relocate to desk a",move to,desk a
+"your next stop is r-desk",move to,r-desk
+"please proceed to desk b",move to,desk b
+"from here you should move to bookshelf b which is your destination",move to,bookshelf b
+"move forward to bookshelf c",move to,bookshelf c
+"from here you should move to r-desk which is your destination",move to,r-desk
+"head over to bookshelf b",move to,bookshelf b
+"navigate to chair",move to,chair
+"proceed to desk a",move to,desk a
+"can you go to bookshelf b",move to,bookshelf b
+"navigate to desk b",move to,desk b
+"proceed to bookshelf c",move to,bookshelf c
+"go to bookshelf a now",move to,bookshelf a
+"please proceed to desk a",move to,desk a
+"now move to your next location which is desk b",move to,desk b
+"navigate to r-desk",move to,r-desk
+"from here you should move to desk b which is your destination",move to,desk b
+"your next stop is desk b",move to,desk b
+"move towards r-desk",move to,r-desk
+"navigate to bookshelf c",move to,bookshelf c
+"move towards bookshelf c",move to,bookshelf c
+"from here you should move to bookshelf b which is your destination",move to,bookshelf b
+"go to bookshelf b now",move to,bookshelf b
+"walk to desk a",move to,desk a
+"your next stop is bookshelf a",move to,bookshelf a
+"move towards bookshelf b",move to,bookshelf b
+"walk to chair",move to,chair
+"head over to bookshelf a",move to,bookshelf a
+"make your way to bookshelf a",move to,bookshelf a
+"move to desk b",move to,desk b
+"proceed to bookshelf a",move to,bookshelf a
+"move towards bookshelf a",move to,bookshelf a
+"walk to r-desk",move to,r-desk
+"head over to desk b",move to,desk b
+"head over to bookshelf a",move to,bookshelf a
+"please proceed to desk a",move to,desk a
+"your destination is r-desk",move to,r-desk
+"can you go to bookshelf c",move to,bookshelf c
+"please proceed to bookshelf c",move to,bookshelf c
+"please proceed to r-desk",move to,r-desk
+"walk to desk b",move to,desk b
+"can you go to desk a",move to,desk a
+"proceed to r-desk",move to,r-desk
+"you need to go to desk b",move to,desk b
+"you need to go to r-desk",move to,r-desk
+"from here you should move to desk a which is your destination",move to,desk a
+"move forward to desk b",move to,desk b
+"relocate to bookshelf b",move to,bookshelf b
+"head over to bookshelf c",move to,bookshelf c
+"your destination is r-desk",move to,r-desk
+"now move to your next location which is r-desk",move to,r-desk
+"move forward to desk b",move to,desk b
+"navigate to r-desk",move to,r-desk
+"please proceed to desk a",move to,desk a
+"your destination is r-desk",move to,r-desk
+"navigate to bookshelf a",move to,bookshelf a
+"you need to go to desk a",move to,desk a
+"proceed to desk a",move to,desk a
+"move towards desk b",move to,desk b
+"proceed to bookshelf b",move to,bookshelf b
+"head over to bookshelf c",move to,bookshelf c
+"please proceed to bookshelf b",move to,bookshelf b
+"make your way to r-desk",move to,r-desk
+"your next stop is bookshelf c",move to,bookshelf c
+"move to chair",move to,chair
+"now move to your next location which is bookshelf c",move to,bookshelf c
+"you need to go to desk b",move to,desk b
+"you need to go to bookshelf c",move to,bookshelf c
+"now move to your next location which is bookshelf a",move to,bookshelf a
+"can you go to r-desk",move to,r-desk
+"move forward to chair",move to,chair
+"can you go to desk a",move to,desk a
+"your destination is bookshelf b",move to,bookshelf b
+"move forward to desk a",move to,desk a
+"proceed to bookshelf a",move to,bookshelf a
+"move forward to r-desk",move to,r-desk
+"can you go to bookshelf a",move to,bookshelf a
+"proceed to r-desk",move to,r-desk
+"now move to your next location which is chair",move to,chair
+"head over to bookshelf a",move to,bookshelf a
+"move towards bookshelf a",move to,bookshelf a
+"from here you should move to r-desk which is your destination",move to,r-desk
+"your destination is bookshelf c",move to,bookshelf c
+"move forward to chair",move to,chair
+"make your way to bookshelf b",move to,bookshelf b
+"proceed to bookshelf a",move to,bookshelf a
+"move forward to bookshelf a",move to,bookshelf a
+"head over to chair",move to,chair
+"move forward to desk a",move to,desk a
+"walk to desk a",move to,desk a
+"please proceed to desk a",move to,desk a
+"your next stop is desk b",move to,desk b
+"walk to bookshelf c",move to,bookshelf c
+"please proceed to bookshelf b",move to,bookshelf b
+"relocate to chair",move to,chair
+"make your way to desk b",move to,desk b
+"walk to bookshelf c",move to,bookshelf c
+"move towards bookshelf a",move to,bookshelf a
+"now move to your next location which is bookshelf b",move to,bookshelf b
+"you need to go to bookshelf b",move to,bookshelf b
+"you need to go to bookshelf a",move to,bookshelf a
+"your next stop is bookshelf a",move to,bookshelf a
+"can you go to bookshelf c",move to,bookshelf c
+"you need to go to chair",move to,chair
+"go to chair now",move to,chair
+"now move to your next location which is bookshelf c",move to,bookshelf c
+"go to bookshelf b now",move to,bookshelf b
+"proceed to desk a",move to,desk a
+"please proceed to bookshelf a",move to,bookshelf a
+"now move to your next location which is bookshelf a",move to,bookshelf a
+"your next stop is bookshelf c",move to,bookshelf c
+"you need to go to r-desk",move to,r-desk
+"move towards chair",move to,chair
+"your next stop is bookshelf a",move to,bookshelf a
+"your destination is bookshelf b",move to,bookshelf b
+"move forward to bookshelf c",move to,bookshelf c
+"proceed to desk b",move to,desk b
+"walk to bookshelf a",move to,bookshelf a
+"move forward to bookshelf a",move to,bookshelf a
+"walk to bookshelf b",move to,bookshelf b
+"your destination is chair",move to,chair
+"you need to go to bookshelf c",move to,bookshelf c
+"can you go to desk b",move to,desk b
+"please proceed to r-desk",move to,r-desk
+"move towards bookshelf a",move to,bookshelf a
+"your destination is desk a",move to,desk a
+"now move to your next location which is r-desk",move to,r-desk
+"walk to desk a",move to,desk a
+"go to bookshelf a now",move to,bookshelf a
+"relocate to bookshelf b",move to,bookshelf b
+"head over to bookshelf c",move to,bookshelf c
+"you need to go to bookshelf b",move to,bookshelf b
+"go to desk a now",move to,desk a
+"proceed to desk b",move to,desk b
+"walk to r-desk",move to,r-desk
+"can you go to bookshelf b",move to,bookshelf b
+"you need to go to bookshelf b",move to,bookshelf b
+"proceed to bookshelf b",move to,bookshelf b
+"now move to your next location which is bookshelf c",move to,bookshelf c
+"walk to desk b",move to,desk b
+"head over to desk b",move to,desk b
+"you need to go to desk b",move to,desk b
+"move forward to bookshelf a",move to,bookshelf a
+"move forward to desk b",move to,desk b
+"navigate to r-desk",move to,r-desk
+"you need to go to chair",move to,chair
+"your next stop is desk a",move to,desk a
+"move towards desk b",move to,desk b
+"can you go to desk a",move to,desk a
+"head over to desk a",move to,desk a
+"you need to go to desk a",move to,desk a
+"your destination is desk b",move to,desk b
+"now move to your next location which is bookshelf a",move to,bookshelf a
+"relocate to bookshelf c",move to,bookshelf c
+"relocate to desk a",move to,desk a
+"your destination is desk a",move to,desk a
+"walk to r-desk",move to,r-desk
+"please proceed to r-desk",move to,r-desk
+"now move to your next location which is r-desk",move to,r-desk
+"walk to bookshelf a",move to,bookshelf a
+"your next stop is desk b",move to,desk b
+"your destination is bookshelf a",move to,bookshelf a
+"go to r-desk now",move to,r-desk
+"from here you should move to desk a which is your destination",move to,desk a
+"navigate to desk a",move to,desk a
+"proceed to desk a",move to,desk a
+"your destination is chair",move to,chair
+"please proceed to bookshelf c",move to,bookshelf c
+"your next stop is desk a",move to,desk a
+"move forward to bookshelf c",move to,bookshelf c
+"move towards r-desk",move to,r-desk
+"navigate to bookshelf b",move to,bookshelf b
+"go to bookshelf a now",move to,bookshelf a
+"head over to desk a",move to,desk a
+"move towards desk a",move to,desk a
+"please proceed to bookshelf c",move to,bookshelf c
+"go to desk a now",move to,desk a
+"proceed to desk b",move to,desk b
+"relocate to bookshelf c",move to,bookshelf c
+"can you go to chair",move to,chair
+"move towards bookshelf b",move to,bookshelf b
+"your destination is chair",move to,chair
+"proceed to bookshelf c",move to,bookshelf c
+"walk to r-desk",move to,r-desk
+"navigate to desk b",move to,desk b
+"go to bookshelf a now",move to,bookshelf a
+"move forward to bookshelf b",move to,bookshelf b
+"now move to your next location which is desk a",move to,desk a
+"navigate to desk b",move to,desk b
+"relocate to chair",move to,chair
+"now move to your next location which is bookshelf c",move to,bookshelf c
+"move forward to r-desk",move to,r-desk
+"please proceed to desk b",move to,desk b
+"go to desk b now",move to,desk b
+"walk to bookshelf a",move to,bookshelf a
+"head over to bookshelf b",move to,bookshelf b
+"move forward to desk a",move to,desk a
+"move forward to bookshelf a",move to,bookshelf a
+"proceed to desk a",move to,desk a
+"now move to your next location which is r-desk",move to,r-desk
+"walk to bookshelf a",move to,bookshelf a
+"please proceed to chair",move to,chair
+"proceed to r-desk",move to,r-desk
+"go to r-desk now",move to,r-desk
+"proceed to chair",move to,chair
+"make your way to r-desk",move to,r-desk
+"make your way to r-desk",move to,r-desk
+"head over to bookshelf b",move to,bookshelf b
+"head over to r-desk",move to,r-desk
+"now move to your next location which is chair",move to,chair
+"from here you should move to desk b which is your destination",move to,desk b
+"from here you should move to desk a which is your destination",move to,desk a
+"walk to bookshelf c",move to,bookshelf c
+"from here you should move to r-desk which is your destination",move to,r-desk
+"you need to go to r-desk",move to,r-desk
+"head over to bookshelf c",move to,bookshelf c
+"make your way to bookshelf b",move to,bookshelf b
+"move towards r-desk",move to,r-desk
+"walk to desk b",move to,desk b
+"move towards chair",move to,chair
+"head over to desk b",move to,desk b
+"relocate to bookshelf a",move to,bookshelf a
+"relocate to desk b",move to,desk b
+"please proceed to bookshelf a",move to,bookshelf a
+"relocate to bookshelf c",move to,bookshelf c
+"you need to go to bookshelf a",move to,bookshelf a
+"your next stop is bookshelf c",move to,bookshelf c
+"your next stop is r-desk",move to,r-desk
+"your destination is desk a",move to,desk a
+"proceed to desk a",move to,desk a
+"your destination is bookshelf c",move to,bookshelf c
+"now move to your next location which is bookshelf b",move to,bookshelf b
+"move forward to bookshelf c",move to,bookshelf c
+"proceed to desk b",move to,desk b
+"relocate to chair",move to,chair
+"go to r-desk now",move to,r-desk
+"walk to bookshelf b",move to,bookshelf b
+"please proceed to chair",move to,chair
+"your destination is bookshelf c",move to,bookshelf c
+"navigate to desk b",move to,desk b
+"please proceed to bookshelf c",move to,bookshelf c
+"from here you should move to bookshelf a which is your destination",move to,bookshelf a
+"from here you should move to desk b which is your destination",move to,desk b
+"can you go to bookshelf a",move to,bookshelf a
+"make your way to chair",move to,chair
+"navigate to desk a",move to,desk a
+"you need to go to chair",move to,chair
+"please proceed to chair",move to,chair
+"your next stop is bookshelf b",move to,bookshelf b
+"now move to your next location which is chair",move to,chair
+"proceed to bookshelf a",move to,bookshelf a
+"you need to go to chair",move to,chair
+"move towards r-desk",move to,r-desk
+"proceed to bookshelf c",move to,bookshelf c
+"navigate to bookshelf c",move to,bookshelf c
+"please proceed to bookshelf b",move to,bookshelf b
+"your destination is desk b",move to,desk b
+"please proceed to r-desk",move to,r-desk
+"you need to go to bookshelf a",move to,bookshelf a
+"proceed to bookshelf c",move to,bookshelf c
+"your next stop is bookshelf b",move to,bookshelf b
+"can you go to chair",move to,chair
+"move towards bookshelf c",move to,bookshelf c
+"you need to go to desk b",move to,desk b
+"please proceed to bookshelf b",move to,bookshelf b
+"go to bookshelf c now",move to,bookshelf c
+"make your way to bookshelf a",move to,bookshelf a
+"please proceed to bookshelf a",move to,bookshelf a
+"your destination is chair",move to,chair
+"your next stop is bookshelf a",move to,bookshelf a
+"proceed to bookshelf a",move to,bookshelf a
+"you need to go to r-desk",move to,r-desk
+"navigate to bookshelf c",move to,bookshelf c
+"move forward to r-desk",move to,r-desk
+"now move to your next location which is bookshelf a",move to,bookshelf a
+"relocate to desk b",move to,desk b
+"navigate to bookshelf b",move to,bookshelf b
+"relocate to bookshelf a",move to,bookshelf a
+"relocate to desk b",move to,desk b
+"can you go to bookshelf c",move to,bookshelf c
+"move towards desk a",move to,desk a
+"from here you should move to desk a which is your destination",move to,desk a
+"make your way to bookshelf c",move to,bookshelf c
+"now move to your next location which is desk b",move to,desk b
+"your destination is desk a",move to,desk a
+"make your way to chair",move to,chair
+"from here you should move to desk a which is your destination",move to,desk a
+"now move to your next location which is bookshelf c",move to,bookshelf c
+"relocate to desk a",move to,desk a
+"from here you should move to chair which is your destination",move to,chair
+"make your way to bookshelf c",move to,bookshelf c
+"relocate to bookshelf a",move to,bookshelf a
+"move forward to desk b",move to,desk b
+"please proceed to desk b",move to,desk b
+"can you go to bookshelf a",move to,bookshelf a
+"proceed to bookshelf b",move to,bookshelf b
+"from here you should move to chair which is your destination",move to,chair
+"move forward to desk a",move to,desk a
+"you need to go to desk b",move to,desk b
+"move towards bookshelf c",move to,bookshelf c
+"from here you should move to r-desk which is your destination",move to,r-desk
+"can you go to bookshelf b",move to,bookshelf b
+"your destination is desk b",move to,desk b
+"now move to your next location which is bookshelf c",move to,bookshelf c
+"your destination is bookshelf c",move to,bookshelf c
+"walk to desk a",move to,desk a
+"make your way to bookshelf a",move to,bookshelf a
+"from here you should move to desk a which is your destination",move to,desk a
+"go to bookshelf a now",move to,bookshelf a
+"now move to your next location which is desk b",move to,desk b
+"proceed to chair",move to,chair
+"navigate to chair",move to,chair
+"can you go to r-desk",move to,r-desk
+"proceed to bookshelf b",move to,bookshelf b
+"from here you should move to chair which is your destination",move to,chair
+"go to desk b now",move to,desk b
+"please proceed to bookshelf b",move to,bookshelf b
+"please proceed to chair",move to,chair
+"move towards desk a",move to,desk a
+"make your way to chair",move to,chair
+"from here you should move to chair which is your destination",move to,chair
+"go to r-desk now",move to,r-desk
+"move to r-desk",move to,r-desk
+"now move to your next location which is desk b",move to,desk b
+"go to desk b now",move to,desk b
+"navigate to r-desk",move to,r-desk
+"move towards chair",move to,chair
+"move towards bookshelf b",move to,bookshelf b
+"your next stop is bookshelf a",move to,bookshelf a
+"your next stop is r-desk",move to,r-desk
+"go to desk a now",move to,desk a
+"head over to chair",move to,chair
+"relocate to desk b",move to,desk b
+"from here you should move to bookshelf c which is your destination",move to,bookshelf c
+"walk to desk a",move to,desk a
+"walk to bookshelf b",move to,bookshelf b
+"move to desk a",move to,desk a
+"make your way to r-desk",move to,r-desk
+"your next stop is chair",move to,chair
+"now move to your next location which is bookshelf a",move to,bookshelf a
+"from here you should move to desk a which is your destination",move to,desk a
+"make your way to desk b",move to,desk b
+"navigate to bookshelf a",move to,bookshelf a
+"navigate to desk b",move to,desk b
+"can you go to desk b",move to,desk b
+"please proceed to desk b",move to,desk b
+"head over to bookshelf a",move to,bookshelf a
+"head over to bookshelf b",move to,bookshelf b
+"head over to r-desk",move to,r-desk
+"can you go to chair",move to,chair
+"now move to your next location which is desk a",move to,desk a
+"move forward to bookshelf b",move to,bookshelf b
+"now move to your next location which is bookshelf b",move to,bookshelf b
+"your next stop is desk a",move to,desk a
+"from here you should move to bookshelf b which is your destination",move to,bookshelf b
+"now move to your next location which is r-desk",move to,r-desk
+"your destination is r-desk",move to,r-desk
+"navigate to bookshelf b",move to,bookshelf b
+"your destination is bookshelf a",move to,bookshelf a
+"your next stop is desk a",move to,desk a
+"from here you should move to bookshelf b which is your destination",move to,bookshelf b
+"walk to chair",move to,chair
+"make your way to chair",move to,chair
+"your destination is desk a",move to,desk a
+"now move to your next location which is desk b",move to,desk b
+"move towards desk b",move to,desk b
+"can you go to bookshelf c",move to,bookshelf c
+"navigate to desk a",move to,desk a
+"go to chair now",move to,chair
+"relocate to bookshelf a",move to,bookshelf a
+"go to bookshelf a now",move to,bookshelf a
+"can you go to desk b",move to,desk b
+"your next stop is bookshelf c",move to,bookshelf c
+"please proceed to r-desk",move to,r-desk
+"make your way to bookshelf c",move to,bookshelf c
+"can you go to r-desk",move to,r-desk
+"can you go to r-desk",move to,r-desk
+"walk to desk a",move to,desk a
+"can you go to chair",move to,chair
+"navigate to bookshelf b",move to,bookshelf b
+"relocate to r-desk",move to,r-desk
+"make your way to bookshelf b",move to,bookshelf b
+"proceed to bookshelf c",move to,bookshelf c
+"head over to chair",move to,chair
+"navigate to bookshelf c",move to,bookshelf c
+"please proceed to chair",move to,chair
+"make your way to bookshelf b",move to,bookshelf b
+"move towards r-desk",move to,r-desk
+"you need to go to bookshelf b",move to,bookshelf b
+"can you go to desk a",move to,desk a
+"please proceed to bookshelf a",move to,bookshelf a
+"move towards bookshelf a",move to,bookshelf a
+"head over to desk b",move to,desk b
+"you need to go to r-desk",move to,r-desk
+"your next stop is r-desk",move to,r-desk
+"from here you should move to bookshelf a which is your destination",move to,bookshelf a
+"move towards desk b",move to,desk b
+"make your way to desk a",move to,desk a
+"proceed to bookshelf a",move to,bookshelf a
+"your destination is bookshelf b",move to,bookshelf b
+"go to desk a now",move to,desk a
+"proceed to chair",move to,chair
+"you need to go to bookshelf c",move to,bookshelf c
+"your destination is bookshelf a",move to,bookshelf a
+"your destination is chair",move to,chair
+"from here you should move to chair which is your destination",move to,chair
+"navigate to desk a",move to,desk a
+"your destination is bookshelf a",move to,bookshelf a
+"navigate to r-desk",move to,r-desk
+"make your way to desk a",move to,desk a
+"move towards bookshelf c",move to,bookshelf c
+"please proceed to desk b",move to,desk b
+"move forward to bookshelf a",move to,bookshelf a
+"move towards bookshelf c",move to,bookshelf c
+"please proceed to desk a",move to,desk a
+"walk to bookshelf a",move to,bookshelf a
+"make your way to desk a",move to,desk a
+"move forward to chair",move to,chair
+"proceed to bookshelf b",move to,bookshelf b
+"move towards r-desk",move to,r-desk
+"from here you should move to chair which is your destination",move to,chair
+"walk to bookshelf b",move to,bookshelf b
+"navigate to desk a",move to,desk a
+"from here you should move to bookshelf c which is your destination",move to,bookshelf c
+"walk to chair",move to,chair
+"move forward to bookshelf b",move to,bookshelf b
+"can you go to bookshelf a",move to,bookshelf a
+"move towards chair",move to,chair
+"relocate to r-desk",move to,r-desk
+"proceed to r-desk",move to,r-desk
+"from here you should move to bookshelf c which is your destination",move to,bookshelf c
+"can you go to desk b",move to,desk b
+"your next stop is bookshelf a",move to,bookshelf a
+"your destination is bookshelf b",move to,bookshelf b
+"go to bookshelf b now",move to,bookshelf b
+"now move to your next location which is bookshelf a",move to,bookshelf a
+"from here you should move to bookshelf a which is your destination",move to,bookshelf a
+"navigate to desk b",move to,desk b
+"go to desk b now",move to,desk b
+"move forward to desk b",move to,desk b
+"head over to r-desk",move to,r-desk
+"relocate to r-desk",move to,r-desk
+"can you go to desk a",move to,desk a
+"relocate to bookshelf b",move to,bookshelf b
+"head over to desk a",move to,desk a
+"you need to go to bookshelf a",move to,bookshelf a
+"can you go to bookshelf b",move to,bookshelf b
+"move towards bookshelf a",move to,bookshelf a
+"walk to r-desk",move to,r-desk
+"from here you should move to bookshelf c which is your destination",move to,bookshelf c
+"your next stop is bookshelf c",move to,bookshelf c
+"now move to your next location which is chair",move to,chair
+"head over to chair",move to,chair
+"you need to go to desk a",move to,desk a
+"make your way to desk b",move to,desk b
+"your next stop is desk b",move to,desk b
+"please proceed to desk a",move to,desk a
+"your next stop is r-desk",move to,r-desk
+"relocate to r-desk",move to,r-desk
+"move forward to bookshelf b",move to,bookshelf b
+"head over to r-desk",move to,r-desk
+"from here you should move to bookshelf b which is your destination",move to,bookshelf b
+"head over to chair",move to,chair
+"walk to bookshelf c",move to,bookshelf c
+"you need to go to desk a",move to,desk a
+"navigate to bookshelf c",move to,bookshelf c
+"now move to your next location which is bookshelf b",move to,bookshelf b
+"your destination is chair",move to,chair
+"you need to go to chair",move to,chair
+"your destination is r-desk",move to,r-desk
+"please proceed to bookshelf c",move to,bookshelf c
+"your destination is desk b",move to,desk b
